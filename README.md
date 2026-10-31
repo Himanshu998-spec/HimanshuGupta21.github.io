@@ -20,7 +20,7 @@
 
 ## Important links to personalize
 The portfolio currently uses:
-- Email: 93044himanshu@gmail.com
+- Email: himanshukgupta.career@gmail.com
 - LinkedIn: https://www.linkedin.com/in/Himanshu_Gupta21/
 - GitHub: https://github.com/Himanshu_Gupta21
 
